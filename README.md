@@ -118,6 +118,7 @@ cd <путь_к_проекту>
 
 ### 3. Скриншоты
 
-![01](https://github.com/user-attachments/assets/a74f7347-aee6-41f7-b717-0a0ec27dfc1d)
-![02](https://github.com/user-attachments/assets/c318dacc-7ca8-4dd5-b3b7-bf7521b3c524)
-![03](https://github.com/user-attachments/assets/648d9be5-92f5-4f01-847b-3bceaa5696c1)
+![01](https://github.com/user-attachments/assets/08724d3c-ecba-4370-9f3d-51daf84fe37e)
+![02](https://github.com/user-attachments/assets/1dc24719-f943-4b46-bd1d-7608d41b1bb9)
+![03](https://github.com/user-attachments/assets/3000494c-5324-490a-bf48-3a54d8ae2bf2)
+
